@@ -1,2 +1,2 @@
 # Play-Fetch
- This is exercise 2 solution
+GameUp Africa Bootcamp - Maliyo Academy - Solution of Exercise 2
